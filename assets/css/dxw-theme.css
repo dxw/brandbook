@@ -1,0 +1,71 @@
+@font-face {
+    font-family: 'Founders-Light';
+    src: url('/assets/fonts/FoundersGroteskTextWeb-Light.eot'); /* IE9 Compat Modes */
+    src: url('/assets/fonts/FoundersGroteskTextWeb-Light.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('/assets/fonts/FoundersGroteskTextWeb-Light.woff2') format('woff2'), /* Super Modern Browsers */
+         url('/assets/fonts/FoundersGroteskTextWeb-Light.woff') format('woff');
+  }
+  
+  @font-face {
+    font-family: 'Founders-Medium';
+    src: url('/assets/fonts/FoundersGroteskTextWeb-Medium.eot'); /* IE9 Compat Modes */
+    src: url('/assets/fonts/FoundersGroteskTextWeb-Medium.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('/assets/fonts/FoundersGroteskTextWeb-Medium.woff2') format('woff2'), /* Super Modern Browsers */
+         url('/assets/fonts/FoundersGroteskTextWeb-Medium.woff') format('woff');
+  }
+  
+  body {
+    font-family: Founders-Light, sans-serif;
+    font-size: 15pt;
+    color: #393b44;
+    line-height: 1.6em;
+    margin: 0;
+    padding: 0;
+  }
+  .sidebar, body, input {
+    background: #FAFDFE;
+  }
+  .sidebar {
+    z-index: 3;
+  }
+  
+  h1,h2,h3,h4,h5 {
+    font-family: Founders-Medium, sans-serif;
+    font-weight: 500;
+    letter-spacing: -1px;
+  }
+  
+  b,strong {
+    font-family: Founders-Medium, sans-serif;
+    font-weight: 500;
+  }
+  
+  .app-nav a {
+    font-size: 15pt;
+  }
+  .app-nav li ul li, .sidebar ul li a {
+    font-size: 13pt;
+  }
+  article p a, article li a {
+    color: #006998;
+    text-decoration: none;
+    border-bottom: 3px solid rgba(28,164,222,0.2);
+    transition: all 0.2s ease-in-out;
+  }
+  article p a:hover, article li a:hover {
+    color: #00344c;
+    border-bottom-color: rgba(0,52,76,0.4);
+  }
+  .markdown-section>:first-child a {
+    border-bottom: none;
+    font-size: 13pt;
+  }
+  .sidebar li {
+    line-height: 1.6;
+  }
+  article li {
+    margin-bottom: 10px;
+  }
+  .logo {
+    float:right; margin-left:20px; margin-top: 5px;
+  }
