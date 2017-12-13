@@ -4,5 +4,5 @@
 - [Examples](/)
 
 <div class="logo"> 
-  <img src="/assets/img/dxw-marker.svg" height="32px">
+  <img src="assets/img/dxw-marker.svg" height="32px">
 </div>
