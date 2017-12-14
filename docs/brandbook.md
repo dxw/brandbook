@@ -80,29 +80,57 @@ We put user at the heart of everything we do
 
 Let’s build better services together!
 
-# Logo
+# Logos
+
+## dxw digital
+
+<div class="row mt2">
+  <div class="one-third p1">
+    <img src="assets/img/dxw-digital-logo.png" />
+  </div>
+  <div class="one-third p1">
+    <img src="assets/img/dxw-digital-logo-black.png" />
+  </div>
+  <div class="one-third p1 bg-dark-blue">
+    <img src="assets/img/dxw-digital-logo-white.png" />
+  </div>
+  <p><a href="https://drive.google.com/drive/u/0/folders/1HrsKwAb4t7ArBtqoZ7k5IZBnMg7rbbUI">On Google Drive</a> in full-colour, black and white variants and various file formats.</p>
+</div>
+
+## dxw cyber
+
+<div class="row mt2">
+  <div class="one-third p1">
+    <img src="assets/img/dxw-cyber-logo.png" />
+  </div>
+  <div class="one-third p1">
+    <img src="assets/img/dxw-cyber-logo-black.png" />
+  </div>
+  <div class="one-third p1 bg-dark-blue">
+    <img src="assets/img/dxw-cyber-logo-white.png" />
+  </div>
+  <p><a href="https://drive.google.com/drive/u/0/folders/1yc1zV5iJnVCIn6oXmFSR2R7W_s7glr7T">On Google Drive</a> in full-colour, black and white variants and various file formats.</p>
+</div>
 
 ## Positioning
 
-* Top left corner in written documents and on the [website](https://www.dxw.com/)
+* Top left corner on [websites](https://www.dxw.com/)
 
 * On the left in the footer on dxw products and related sites, for example on [new GovPress](https://hosting.staging.dxw.net/) or [new dxw security](https://security.staging.dxw.net/)
 
 ## Colour variations
 
-* Dark and light blue logo is the original versions, used on dxw website, in banners and other documents.
+* Dark and light blue logos are the main versions — unless you're against a solid coloured background, always use these.
 
-* White logo version is used on dxw products sites, in the footer, on black (#283133) background. We also use white version a solid colour background in slidedecks.
+* White logo version is used on dxw products sites, in the footer, on black (`#283133`) background. White versions are also available for use against most solid coloured backgrounds e.g. slide decks, apart from yellow (`#ffb72c`) — against this, use a black logo.
 
-* Black logo version is not used anywhere online. However, we have it available in the [dxw branding folder](https://drive.google.com/drive/folders/0B-QLubnLOpX0TUdfN1B1dXlLem8) and use it for stamps or mugs.
-
-* Stacked version is not used online either, available for print design purposes.
+* Black logo version is not used anywhere online. It's used against solid yellow (`#ffb72c`) backgrounds. However, we have it available in the [dxw branding folder](https://drive.google.com/drive/folders/0B-QLubnLOpX0TUdfN1B1dXlLem8) and use it for stamps or mugs.
 
 ## Versions
 
-* Full logo version is used on dxw website and product sites (in header and footer). It’s also on the first page of a document.
+* Full logo versions are used on the dxw website and product sites (in header and footer). It’s also on the first page of a document.
 
-* The d marque can be found in the footer of written documents, slidedecks and next to the header navigation on scroll.
+* The [d marque](https://drive.google.com/drive/u/0/folders/1xfo7N4OEXtQkqPBjgD7_VVUIE7cbyshw) can be found in the footer of written documents, slidedecks and next to the header navigation on scroll. Use the d marque on multi-page documents, where excessively repeating the full logo feels like overkill. In this situation, make sure the full version is on the front page.
 
 ## Do's and dont's
 

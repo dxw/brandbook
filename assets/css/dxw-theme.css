@@ -86,6 +86,10 @@
     clear: both;
   }
 
+  .row p {
+    clear: both;
+  }
+
   .one-third {
     float: left;
     width: 100%;
@@ -95,8 +99,8 @@
   @media screen and (min-width: 720px) {
     .one-third {
       float: left;
-      width: 30%;
-      margin-right: 2%;
+      width: 28%;
+      margin-right: 5%;
     }
   }
 
@@ -109,7 +113,23 @@
   @media screen and (min-width: 720px) {
     .one-half {
       float: left;
-      width: 47%;
-      margin-right: 2%;
+      width: 45%;
+      margin-right: 3.5%;
     }
+  }
+
+  .mt1 {
+    margin-top: 1em;
+  }
+
+  .mt2 {
+    margin-top: 2em;
+  }
+
+  .p1 {
+    padding: 1em;
+  }
+
+  .bg-dark-blue {
+    background-color: #006998;
   }
