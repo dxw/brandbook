@@ -104,6 +104,108 @@ Let’s build better services together!
 
 * The d marque can be found in the footer of written documents, slidedecks and next to the header navigation on scroll.
 
+## Do's and dont's
+
+### Do:
+
+<ul>
+  <li>
+    <p>use the full-colour logo against white or off-white backgrounds</p>
+    <div class="one-half">
+      <img src="assets/img/logo-dos-and-donts_0019.png">
+    </div>
+    <div class="one-half">
+      <img src="assets/img/logo-dos-and-donts_0018.png">
+    </div>
+  </li>
+  <li>
+    <p>use a mono logo against a coloured background</p>
+    <div class="one-half">
+      <img src="assets/img/logo-dos-and-donts_0017.png">
+    </div>
+    <div class="one-half">
+      <img src="assets/img/logo-dos-and-donts_0016.png">
+    </div>
+  </li>
+  <li>
+    <p>give the logo enough space on all sides</p>
+    <div class="one-half">
+      <img src="assets/img/logo-dos-and-donts_0015.png">
+    </div>
+    <div class="one-half">
+      <img src="assets/img/logo-dos-and-donts_0014.png">
+    </div>
+  </li>
+</ul>
+
+### Don't
+
+<ul>
+  <li>
+    <p>rotate the logo</p>
+    <div class="one-half">
+      <img src="assets/img/logo-dos-and-donts_0013.png">
+    </div>
+    <div class="one-half">
+      <img src="assets/img/logo-dos-and-donts_0012.png">
+    </div>
+  </li>
+  <li>
+    <p>change the colour of the logo</p>
+    <div class="one-half">
+      <img src="assets/img/logo-dos-and-donts_0011.png">
+    </div>
+    <div class="one-half">
+      <img src="assets/img/logo-dos-and-donts_0010.png">
+    </div>
+  </li>
+  <li>
+    <p>stretch or distort the logo in any direction</p>
+    <div class="one-half">
+      <img src="assets/img/logo-dos-and-donts_0009.png">
+    </div>
+    <div class="one-half">
+      <img src="assets/img/logo-dos-and-donts_0008.png">
+    </div>
+  </li>
+  <li>
+    <p>use the full-colour logo against coloured backgrounds</p>
+    <div class="one-half">
+      <img src="assets/img/logo-dos-and-donts_0007.png">
+    </div>
+    <div class="one-half">
+      <img src="assets/img/logo-dos-and-donts_0006.png">
+    </div>
+  </li>
+  <li>
+    <p>apply transparency to the logo</p>
+    <div class="one-half">
+      <img src="assets/img/logo-dos-and-donts_0005.png">
+    </div>
+    <div class="one-half">
+      <img src="assets/img/logo-dos-and-donts_0004.png">
+    </div>
+  </li>
+  <li>
+    <p>apply a drop shadow to the logo</p>
+    <div class="one-half">
+      <img src="assets/img/logo-dos-and-donts_0003.png">
+    </div>
+    <div class="one-half">
+      <img src="assets/img/logo-dos-and-donts_0002.png">
+    </div>
+  </li>
+  <li>
+    <p>apply a reflection to the logo</p>
+    <div class="one-half">
+      <img src="assets/img/logo-dos-and-donts_0001.png">
+    </div>
+    <div class="one-half">
+      <img src="assets/img/logo-dos-and-donts_0000.png">
+    </div>
+  </li>
+</ul>
+
 # Typography
 
 ## dxw typeface
