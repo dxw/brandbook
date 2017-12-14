@@ -34,6 +34,9 @@
     font-weight: 500;
     letter-spacing: -1px;
   }
+  .markdown-section h1:not(:first-of-type) {
+    margin-top: 2em;
+  }
   
   b,strong {
     font-family: Founders-Medium, sans-serif;
@@ -56,12 +59,15 @@
     color: #00344c;
     border-bottom-color: rgba(0,52,76,0.4);
   }
-  .markdown-section>:first-child a {
+  .markdown-section > :first-child a {
     border-bottom: none;
     font-size: 13pt;
   }
   .sidebar li {
     line-height: 1.6;
+  }
+  .sidebar ul li.active > a {
+    font-family: Founders-Medium, sans-serif;
   }
   article li {
     margin-bottom: 10px;
