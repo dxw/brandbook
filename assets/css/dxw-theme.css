@@ -37,12 +37,12 @@
   .markdown-section h1:not(:first-of-type) {
     margin-top: 2em;
   }
-  
+
   b,strong {
     font-family: Founders-Medium, sans-serif;
     font-weight: 500;
   }
-  
+
   .app-nav a {
     font-size: 15pt;
   }
@@ -166,4 +166,10 @@
 
   .bg-dark-blue {
     background-color: #006998;
+  }
+  .cover.show {
+    background: #f2f2f2 !important;
+  }
+  section.cover .cover-main > p:last-child a {
+    line-height: 2em;
   }
