@@ -75,3 +75,41 @@
   .logo {
     float:right; margin-left:20px; margin-top: 5px;
   }
+
+  ul li p {
+    clear: both;
+  }
+
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .one-third {
+    float: left;
+    width: 100%;
+    margin-bottom: 16px;
+  }
+
+  @media screen and (min-width: 720px) {
+    .one-third {
+      float: left;
+      width: 30%;
+      margin-right: 2%;
+    }
+  }
+
+  .one-half {
+    float: left;
+    width: 100%;
+    margin-bottom: 16px;
+  }
+
+  @media screen and (min-width: 720px) {
+    .one-half {
+      float: left;
+      width: 47%;
+      margin-right: 2%;
+    }
+  }
