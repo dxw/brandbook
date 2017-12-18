@@ -173,3 +173,15 @@
   section.cover .cover-main > p:last-child a {
     line-height: 2em;
   }
+  .logos img {
+    height: 80px;
+  }
+  .logos img:first-of-type {
+    margin-right: 2em;
+  }
+  @media screen and (max-width: 720px) {
+    .logos img:first-of-type {
+      margin-right: 0;
+      margin-bottom: 0.5em;
+    }
+  }

@@ -1,6 +1,9 @@
 <!-- _coverpage.md -->
 
-<img src="assets/img/dxw-logo.svg" height="128px">
+<div class="logos"> 
+    <img src="assets/img/dxw-digital-logo.png">
+    <img src="assets/img/dxw-cyber-logo.png">
+</div>
 
 # dxw brandbook
 
