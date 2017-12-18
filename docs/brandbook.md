@@ -216,7 +216,7 @@ Use **Light** for body text and **Medium** for headings.
 
 ## Google Docs font
 
-An alternative font used in shared Google documents is Montserrat. It’s the closest match to Founders Grotesk.
+An alternative font used in shared Google documents is [Work Sans.](https://fonts.google.com/specimen/Work+Sans) It’s the closest match to Founders Grotesk.
 
 ## Tips for good typography
 
