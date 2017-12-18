@@ -268,47 +268,233 @@ Keep it light as far as possible. Better to have multiple pages with one clear m
 
 ## Primary colours
 
+<div class="swatches">
+
+  <div class="swatch-wrapper">
+    <div class="swatch" style="background-color: #006998;">
+    </div>
+    <div class="swatch-text">
+      <h4>Dark Blue</h4>
+      <div class="swatch-hex">
+        Hex: <code>#006998</code>
+      </div>
+    </div>
+  </div>
+
+  <div class="swatch-wrapper">
+    <div class="swatch" style="background-color: #1ca4de;">
+    </div>
+    <div class="swatch-text">
+      <h4>Light Blue</h4>
+      <div class="swatch-hex">
+        Hex: <code>#1ca4de</code>
+      </div>
+    </div>
+  </div>
+
+  <div class="swatch-wrapper">
+    <div class="swatch" style="background-color: #283133;">
+    </div>
+    <div class="swatch-text">
+      <h4>Black</h4>
+      <div class="swatch-hex">
+        Hex: <code>#283133</code>
+      </div>
+    </div>
+  </div>
+
+  <div class="swatch-wrapper">
+    <div class="swatch" style="background-color: #4c535a;">
+    </div>
+    <div class="swatch-text">
+      <h4>Dark Grey</h4>
+      <div class="swatch-hex">
+        Hex: <code>#4c535a</code>
+      </div>
+    </div>
+  </div>
+
+  <div class="swatch-wrapper">
+    <div class="swatch" style="background-color: #ffffff;">
+    </div>
+    <div class="swatch-text">
+      <h4>White</h4>
+      <div class="swatch-hex">
+        Hex: <code>#ffffff</code>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+
+
 ### Dark blue
 
 * Use for links, call to actions, icons, banner background.
 
-* HEX #006998 / Pantone 7691 C
+* HEX `#006998` / Pantone 7691 C
 
-* Dark blue background with white (#fff) foreground: 6.04:1 contrast ratio, passes WCAG AA. The same contrast ratio is for white background with dark blue foreground.
+* Dark blue background with white (`#ffffff`) foreground: 6.04:1 contrast ratio, passes WCAG AA. The same contrast ratio is for white background with dark blue foreground.
 
 ### Light blue
 
 * Use for accent colour or large visual details
 
-* HEX #1ca4de / Pantone 2925 C
+* HEX `#1ca4de` / Pantone 2925 C
 
 * Light blue background with white foreground and white background with light blue foreground don’t have enough contrast to pass WCAG AA.
 
-* Light blue background with black (#283133) foreground: 4.7:1 contrast ratio, passes WCAG AA. The same contrast ratio is for black background with light blue foreground.
+* Light blue background with black (`#283133`) foreground: 4.7:1 contrast ratio, passes WCAG AA. The same contrast ratio is for black background with light blue foreground.
 
 ### Black
 
 * Use for text colour and headings
 
-* HEX #283133
+* HEX `#283133`
 
 ### Dark grey
 
 * Use for dark backgrounds, and form and meta text colour
 
-* HEX #4c535a
+* HEX `#4c535a`
 
 ### White
 
-* HEX #ffffff
+* HEX `#ffffff`
 
 ## Secondary colours
+
+<div class="swatches">
+
+  <div class="swatch-wrapper">
+    <div class="swatch" style="background-color: #006874;">
+    </div>
+    <div class="swatch-text">
+      <h4>Dark green</h4>
+      <div class="swatch-hex">
+        Hex: <code>#006874</code>
+      </div>
+    </div>
+  </div>
+
+  <div class="swatch-wrapper">
+    <div class="swatch" style="background-color: #3bc492;">
+    </div>
+    <div class="swatch-text">
+      <h4>Light green</h4>
+      <div class="swatch-hex">
+        Hex: <code>#3bc492</code>
+      </div>
+    </div>
+  </div>
+
+  <div class="swatch-wrapper">
+    <div class="swatch" style="background-color: #ffb72c;">
+    </div>
+    <div class="swatch-text">
+      <h4>Yellow</h4>
+      <div class="swatch-hex">
+        Hex: <code>#ffb72c</code>
+      </div>
+    </div>
+  </div>
+
+  <div class="swatch-wrapper">
+    <div class="swatch" style="background-color: #fe603a;">
+    </div>
+    <div class="swatch-text">
+      <h4>Orange</h4>
+      <div class="swatch-hex">
+        Hex: <code>#fe603a</code>
+      </div>
+    </div>
+  </div>
+
+  <div class="swatch-wrapper">
+    <div class="swatch" style="background-color: #9f1f1f;">
+    </div>
+    <div class="swatch-text">
+      <h4>Red</h4>
+      <div class="swatch-hex">
+        Hex: <code>#9f1f1f</code>
+      </div>
+    </div>
+  </div>
+
+  <div class="swatch-wrapper">
+    <div class="swatch" style="background-color: #00a0b0;">
+    </div>
+    <div class="swatch-text">
+      <h4>Turquoise</h4>
+      <div class="swatch-hex">
+        Hex: <code>#00a0b0</code>
+      </div>
+    </div>
+  </div>
+
+  <div class="swatch-wrapper">
+    <div class="swatch" style="background-color: #5b527f;">
+    </div>
+    <div class="swatch-text">
+      <h4>Purple</h4>
+      <div class="swatch-hex">
+        Hex: <code>#5b527f</code>
+      </div>
+    </div>
+  </div>
+
+  <div class="swatch-wrapper">
+    <div class="swatch" style="background-color: #b15fa2;">
+    </div>
+    <div class="swatch-text">
+      <h4>Pink</h4>
+      <div class="swatch-hex">
+        Hex: <code>#b15fa2</code>
+      </div>
+    </div>
+  </div>
+
+  <div class="swatch-wrapper">
+    <div class="swatch" style="background-color: #95989a;">
+    </div>
+    <div class="swatch-text">
+      <h4>Grey</h4>
+      <div class="swatch-hex">
+        Hex: <code>#95989a</code>
+      </div>
+    </div>
+  </div>
+
+  <div class="swatch-wrapper">
+    <div class="swatch" style="background-color: #eeeeee;">
+    </div>
+    <div class="swatch-text">
+      <h4>Light grey</h4>
+      <div class="swatch-hex">
+        Hex: <code>#eeeeee</code>
+      </div>
+    </div>
+  </div>
+
+  <div class="swatch-wrapper">
+    <div class="swatch" style="background-color: #f2f2f2;">
+    </div>
+    <div class="swatch-text">
+      <h4>Off-white</h4>
+      <div class="swatch-hex">
+        Hex: <code>#f2f2f2</code>
+      </div>
+    </div>
+  </div>
+
+</div>
 
 ### Dark green
 
 * Use for feature background 
 
-* HEX #006874
+* HEX `#006874`
 
 * Dark green background with white foreground: 6.5:1 contrast ratio, passes WCAG AA. The same contrast ratio is for white background with dark green foreground.
 
@@ -316,7 +502,7 @@ Keep it light as far as possible. Better to have multiple pages with one clear m
 
 * Used for success alert background when the contact form has been sent
 
-* HEX #3bc492
+* HEX `#3bc492`
 
 * Light green background with white foreground and white background with light green foreground don’t have enough contrast to pass WCAG AA.
 
@@ -326,7 +512,7 @@ Keep it light as far as possible. Better to have multiple pages with one clear m
 
 * Used as default alert background and as a border on when elements are in focus state
 
-* HEX #ffb72c
+* HEX `#ffb72c`
 
 * Yellow background with white foreground and white background with yellow foreground don’t have enough contrast to pass WCAG AA.
 
@@ -336,7 +522,7 @@ Keep it light as far as possible. Better to have multiple pages with one clear m
 
 * Not used anywhere on dxw website at the moment
 
-* HEX #fe603a
+* HEX `#fe603a`
 
 * Orange background with white foreground: 3.02:1 contrast ratio, passes WCAG AA for large text only. The same contrast ratio is for white background with orange foreground.
 
@@ -346,7 +532,7 @@ Keep it light as far as possible. Better to have multiple pages with one clear m
 
 * Used in the contact form for error messages
 
-* HEX #9f1f1f
+* HEX `#9f1f1f`
 
 * Red background with white foreground: 7.81:1 contrast ratio, passes WCAG AA. The same contrast ratio is for white background with red foreground.
 
@@ -354,7 +540,7 @@ Keep it light as far as possible. Better to have multiple pages with one clear m
 
 * Not used anywhere on dxw website at the moment 
 
-* HEX #00a0b0
+* HEX `#00a0b0`
 
 * Turquoise background with white foreground: 3.16:1 contrast ratio, passes WCAG AA for large text only. The same contrast ratio is for white background with orange foreground.
 
@@ -364,7 +550,7 @@ Keep it light as far as possible. Better to have multiple pages with one clear m
 
 * Used for banner background
 
-* HEX #5b527f
+* HEX `#5b527f`
 
 * Purple background with white foreground: 7.1:1 contrast ratio, passes WCAG AA. The same contrast ratio is for white background with dark green foreground.
 
@@ -372,7 +558,7 @@ Keep it light as far as possible. Better to have multiple pages with one clear m
 
 * Not used anywhere on dxw website at the moment
 
-* HEX #b15fa2
+* HEX `#b15fa2`
 
 * Pink background with white foreground: 4.18:1 contrast ratio, passes WCAG AA for large text only. The same contrast ratio is for white background with pink foreground.
 
@@ -382,19 +568,19 @@ Keep it light as far as possible. Better to have multiple pages with one clear m
 
 * Used for thin borders and grey backgrounds
 
-* HEX  #95989a
+* HEX  `#95989a`
 
 ### Light grey
 
 * Used for backgrounds
 
-* HEX #eeeeee
+* HEX `#eeeeee`
 
-### Light
+### Off-white
 
 * Used for backgrounds
 
-* HEX #f2f2f2
+* HEX `#f2f2f2`
 
 # Photography guidelines
 
