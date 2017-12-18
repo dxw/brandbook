@@ -1,46 +1,32 @@
 # Our values
 
-## Be honest
+## [Be honest](https://drive.google.com/file/d/0B-QLubnLOpX0a2VYbmQ2RTRsM0k/view)
 
 So people trust us
 
-([poster](https://drive.google.com/file/d/0B-QLubnLOpX0a2VYbmQ2RTRsM0k/view))
-
-## Be determined
+## [Be determined](https://drive.google.com/file/d/0B-QLubnLOpX0RUhkQWgwOHhsQXM/view)
 
 So that we get things done
 
-([poster](https://drive.google.com/file/d/0B-QLubnLOpX0RUhkQWgwOHhsQXM/view))
-
-## Be reliable
+## [Be reliable](https://drive.google.com/file/d/0B-QLubnLOpX0WTlPeHlHTldjdE0/view)
 
 So that people have confidence in us
 
-([poster](https://drive.google.com/file/d/0B-QLubnLOpX0WTlPeHlHTldjdE0/view))
-
-## Be positive
+## [Be positive](https://drive.google.com/file/d/0B-QLubnLOpX0YWEwUGN1SXJXc2c/view)
 
 So we work well together
 
-([poster](https://drive.google.com/file/d/0B-QLubnLOpX0YWEwUGN1SXJXc2c/view))
-
-## Be curious
+## [Be curious](https://drive.google.com/file/d/0B-QLubnLOpX0NEhnM2luSUJ0OGc/view)
 
 So we find better solutions
 
-([poster](https://drive.google.com/file/d/0B-QLubnLOpX0NEhnM2luSUJ0OGc/view))
-
-## Be helpful
+## [Be helpful](https://drive.google.com/file/d/0B-QLubnLOpX0aUtFcEJkRlpQMVU/view)
 
 So people want to work with us
 
-([poster](https://drive.google.com/file/d/0B-QLubnLOpX0aUtFcEJkRlpQMVU/view))
-
-## Be open
+## [Be open](https://drive.google.com/file/d/0B-QLubnLOpX0a1o5eWxIWWlkSms/view)
 
 It makes things better
-
-([poster](https://drive.google.com/file/d/0B-QLubnLOpX0a1o5eWxIWWlkSms/view))
 
 # Writing style
 
@@ -238,7 +224,7 @@ Let’s build better services together!
 
 ## dxw typeface
 
-[Founders Grote](https://drive.google.com/drive/folders/0B_Z3pFTJZM5OME92c2xMWEdMdFk)[sk Text](https://drive.google.com/drive/folders/0B_Z3pFTJZM5OME92c2xMWEdMdFk)
+[Founders Grotesk Text](https://drive.google.com/drive/folders/0B_Z3pFTJZM5OME92c2xMWEdMdFk)
 
 Use **Light** for body text and **Medium** for headings.
 
@@ -608,7 +594,7 @@ Places where we currently use Symbolicons:
 
 * dxw website (services on the homepage, contact page)
 
-* New GovPress [https://hosting.staging.dxw.net/](https://hosting.staging.dxw.net/) (features on the homepage, support table, contact us page)
+* New GovPress [https://www.govpress.com](https://www.govpress.com) (features on the homepage, support table, contact us page)
 
 * New dxw security site [https://security.staging.dxw.net/](https://security.staging.dxw.net/) (review icons, features on the homepage)
 
@@ -617,10 +603,6 @@ Places where we currently use Symbolicons:
 We also use social media icons on our sites.
 
 # Glossary
-
-## Govsite
-
-Google Drive: [https://drive.google.com/drive/folders/0B3L9egViwlJBbU9KOXJYdVl1ZGs](https://drive.google.com/drive/folders/0B3L9egViwlJBbU9KOXJYdVl1ZGs)
 
 ## GovPress
 
@@ -633,12 +615,3 @@ Google Drive: [https://drive.google.com/drive/folders/0Bzb3f1meEk75MWJDby1ydFd4V
 ## dxw security
 
 Google Drive: [https://drive.google.com/drive/folders/0B-QLubnLOpX0Zkc2U0wyUjdrbGM](https://drive.google.com/drive/folders/0B-QLubnLOpX0Zkc2U0wyUjdrbGM)
-
-## Whippet-Server
-
-# Materials/examples
-
-(Links to existing templates, artwork etc)
-
-Existing templates, should be reviewed: [https://drive.google.com/drive/folders/0B3L9egViwlJBQUhJaUVjSjNsMU0](https://drive.google.com/drive/folders/0B3L9egViwlJBQUhJaUVjSjNsMU0)
-
