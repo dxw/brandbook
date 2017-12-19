@@ -574,9 +574,21 @@ Keep it light as far as possible. Better to have multiple pages with one clear m
 
 Team headshots are taken against the white wall in the meeting room. 
 
+<img class="photo headshot" alt="Headshot of Harry" src="assets/img/harry.jpg" />
+<img class="photo headshot round" alt="Headshot of Harry" src="assets/img/harry.jpg" />
+
 ## Office photography
 
 Office photography used on our digital and printed should look natural. It should reflect the dxw culture and agile workflow.
+
+<div class="one-half"><img class="photo office" alt="Office photography" src="assets/img/office-2.jpg" /></div>
+<div class="one-half"><img class="photo office" alt="Office photography" src="assets/img/office-3.jpg" /></div>
+<div class="one-half"><img class="photo office" alt="Office photography" src="assets/img/office-4.jpg" /></div>
+<div class="one-half"><img class="photo office" alt="Office photography" src="assets/img/office-5.jpg" /></div>
+<div class="one-half"><img class="photo office" alt="Office photography" src="assets/img/office-6.jpg" /></div>
+<div class="one-half"><img class="photo office" alt="Office photography" src="assets/img/office-7.jpg" /></div>
+<div class="one-half"><img class="photo office" alt="Office photography" src="assets/img/office-8.jpg" /></div>
+<div class="one-half"><img class="photo office" alt="Office photography" src="assets/img/office-9.jpg" /></div>
 
 Photography details include:
 
