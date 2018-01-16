@@ -614,6 +614,41 @@ Places where we currently use Symbolicons:
 
 We also use social media icons on our sites.
 
+# Creating new outputs?
+
+## Consider the brand requirements
+
+* are you using the correct [logo?](#logos)
+* is the logo [positioned the right way?](#positioning)
+* are you using the correct [typeface?](#dxw-typeface)
+* are you using colours from the dxw [colour palette?](#colour-palette)
+* are your colour choices [good for accessibility?](http://leaverou.github.io/contrast-ratio/)
+* is the language in your output consistent with our [writing style?](#writing-style)
+* does your photography follow our [photography guidelines?](#photography-guidelines)
+* might your output be useful to someone else at dxw? Think about how you name it, and where you keep it
+
+## Don't reinvent the wheel
+
+Check Google Drive and ask on Slack if something similar already exists that will suit your needs.
+
+## Design tips
+
+* simple is always best
+* can someone tell at a glimpse, or from a distance, that your design represents dxw?
+* what can you remove without diluting your message?
+* 90% of design is [good typography](#tips-for-good-typography)
+* consider [visual hierarchy](http://52weeksofux.com/post/443828775/visual-hierarchy)—try the squint test and see what stands out on your design
+* the [stuff you don't put in your design is as important as the stuff you do](https://manifesto.co.uk/design-principles-gestalt-white-space-perception/)
+* try making the elements of your design a little smaller, with a little more space around them—they'll be easier for the eye to take in
+* balancing colours is tricky—try one colour from the [primary palette](#primary-colours) and use shades and tints of it
+* if you have to use a colour from the [secondary palette,](#secondary colours) choose just one and use it very sparingly
+
+
+## Get help
+
+Use the [#helpmedesign channel in Slack](https://dxw.slack.com/messages/C8Q0WJ10S) to get help and advice on any aspects of design, however big or small.
+
+
 # Glossary
 
 ## GovPress
