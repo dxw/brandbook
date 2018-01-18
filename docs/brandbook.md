@@ -60,7 +60,7 @@ dxw helps public sector teams to make good technology decisions and build better
 
 dxw - Exemplary web projects for the public sector
 
-We put user at the heart of everything we do
+We put the user at the heart of everything we do
 
 ## Call to actions
 
