@@ -34,6 +34,8 @@ It makes things better
 
 Not DXW, Dxw, DxW, dXw, etc
 
+In general, we refer to ourselves as dxw. When we are talking about a specific offering, or in a specific context, we use the corresponding extension, e.g. dxw digital, dxw cyber, etc. 
+
 ## Keep it clear
 
 Don’t leave people in two minds about what we’re saying
