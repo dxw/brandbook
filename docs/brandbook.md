@@ -68,6 +68,8 @@ Let’s build better services together!
 
 # Logos
 
+Logos are available in horizontal and vertical arrangements. Almost all occasions will call for the horizontal version. If you're unsure which logo to use, ask in [the #helpmedesign channel in Slack](https://dxw.slack.com/messages/C8Q0WJ10S).
+
 ## dxw digital
 
 <div class="row mt2">
@@ -80,8 +82,20 @@ Let’s build better services together!
   <div class="one-third p1 bg-dark-blue">
     <img src="assets/img/dxw-digital-logo-white.png" />
   </div>
-  <p><a href="https://drive.google.com/drive/u/0/folders/1HrsKwAb4t7ArBtqoZ7k5IZBnMg7rbbUI">On Google Drive</a> in full-colour, black and white variants and various file formats.</p>
 </div>
+<div class="row mt2">
+  <div class="one-sixth p1">
+    <img src="assets/img/dxw-digital-logo-vertical.png" />
+  </div>
+  <div class="one-sixth p1">
+    <img src="assets/img/dxw-digital-logo-black-vertical.png" />
+  </div>
+  <div class="one-sixth p1 bg-dark-blue">
+    <img src="assets/img/dxw-digital-logo-white-vertical.png" />
+  </div>
+</div>
+
+<p><a href="https://drive.google.com/drive/u/0/folders/1HrsKwAb4t7ArBtqoZ7k5IZBnMg7rbbUI">On Google Drive</a> in full-colour, black and white variants, vertical versions, and various file formats.</p>
 
 ## dxw cyber
 
@@ -95,8 +109,20 @@ Let’s build better services together!
   <div class="one-third p1 bg-dark-blue">
     <img src="assets/img/dxw-cyber-logo-white.png" />
   </div>
-  <p><a href="https://drive.google.com/drive/u/0/folders/1yc1zV5iJnVCIn6oXmFSR2R7W_s7glr7T">On Google Drive</a> in full-colour, black and white variants and various file formats.</p>
 </div>
+<div class="row mt2">
+  <div class="one-sixth p1">
+    <img src="assets/img/dxw-cyber-logo-vertical.png" />
+  </div>
+  <div class="one-sixth p1">
+    <img src="assets/img/dxw-cyber-logo-black-vertical.png" />
+  </div>
+  <div class="one-sixth p1 bg-dark-blue">
+    <img src="assets/img/dxw-cyber-logo-white-vertical.png" />
+  </div>
+</div>
+
+<p><a href="https://drive.google.com/drive/u/0/folders/1yc1zV5iJnVCIn6oXmFSR2R7W_s7glr7T">On Google Drive</a> in full-colour, black and white variants, vertical versions, and various file formats.</p>
 
 ## dxw govpress
 
@@ -110,8 +136,20 @@ Let’s build better services together!
   <div class="one-third p1 bg-dark-blue">
     <img src="assets/img/dxw-govpress-logo-white.png" />
   </div>
-  <p><a href="https://drive.google.com/drive/u/0/folders/1MbPYCSgu7DN4qNGQIA_Xlgt4aUhhwtFw">On Google Drive</a> in full-colour, black and white variants and various file formats.</p>
 </div>
+<div class="row mt2">
+  <div class="one-sixth p1">
+    <img src="assets/img/dxw-govpress-logo-vertical.png" />
+  </div>
+  <div class="one-sixth p1">
+    <img src="assets/img/dxw-govpress-logo-black-vertical.png" />
+  </div>
+  <div class="one-sixth p1 bg-dark-blue">
+    <img src="assets/img/dxw-govpress-logo-white-vertical.png" />
+  </div>
+</div>
+
+<p><a href="https://drive.google.com/drive/u/0/folders/1MbPYCSgu7DN4qNGQIA_Xlgt4aUhhwtFw">On Google Drive</a> in full-colour, black and white variants, vertical versions, and various file formats.</p>
 
 ## dxw advisories
 
@@ -125,7 +163,18 @@ Let’s build better services together!
   <div class="one-third p1 bg-dark-blue">
     <img src="assets/img/dxw-advisories-logo-white.png" />
   </div>
-  <p><a href="https://drive.google.com/drive/u/0/folders/15qJMosbaCXp4rYI8dy4yJOEQ_ERDL9u8">On Google Drive</a> in full-colour, black and white variants and various file formats.</p>
+</div>
+<div class="row mt2">
+  <div class="one-sixth p1">
+    <img src="assets/img/dxw-advisories-logo-vertical.png" />
+  </div>
+  <div class="one-sixth p1">
+    <img src="assets/img/dxw-advisories-logo-black-vertical.png" />
+  </div>
+  <div class="one-sixth p1 bg-dark-blue">
+    <img src="assets/img/dxw-advisories-logo-white-vertical.png" />
+  </div>
+  <p><a href="https://drive.google.com/drive/u/0/folders/15qJMosbaCXp4rYI8dy4yJOEQ_ERDL9u8">On Google Drive</a> in full-colour, black and white variants, vertical versions, and various file formats.</p>
 </div>
 
 ## Positioning
