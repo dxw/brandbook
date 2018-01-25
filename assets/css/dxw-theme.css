@@ -90,6 +90,20 @@
     clear: both;
   }
 
+  .one-sixth {
+    float: left;
+    width: 100%;
+    margin-bottom: 16px;
+  }
+
+  @media screen and (min-width: 720px) {
+    .one-sixth {
+      float: left;
+      width: 14%;
+      margin-right: 5%;
+    }
+  }
+
   .one-third {
     float: left;
     width: 100%;
