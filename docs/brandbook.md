@@ -98,6 +98,36 @@ Let’s build better services together!
   <p><a href="https://drive.google.com/drive/u/0/folders/1yc1zV5iJnVCIn6oXmFSR2R7W_s7glr7T">On Google Drive</a> in full-colour, black and white variants and various file formats.</p>
 </div>
 
+## dxw govpress
+
+<div class="row mt2">
+  <div class="one-third p1">
+    <img src="assets/img/dxw-govpress-logo.png" />
+  </div>
+  <div class="one-third p1">
+    <img src="assets/img/dxw-govpress-logo-black.png" />
+  </div>
+  <div class="one-third p1 bg-dark-blue">
+    <img src="assets/img/dxw-govpress-logo-white.png" />
+  </div>
+  <p><a href="https://drive.google.com/drive/u/0/folders/1MbPYCSgu7DN4qNGQIA_Xlgt4aUhhwtFw">On Google Drive</a> in full-colour, black and white variants and various file formats.</p>
+</div>
+
+## dxw advisories
+
+<div class="row mt2">
+  <div class="one-third p1">
+    <img src="assets/img/dxw-advisories-logo.png" />
+  </div>
+  <div class="one-third p1">
+    <img src="assets/img/dxw-advisories-logo-black.png" />
+  </div>
+  <div class="one-third p1 bg-dark-blue">
+    <img src="assets/img/dxw-advisories-logo-white.png" />
+  </div>
+  <p><a href="https://drive.google.com/drive/u/0/folders/15qJMosbaCXp4rYI8dy4yJOEQ_ERDL9u8">On Google Drive</a> in full-colour, black and white variants and various file formats.</p>
+</div>
+
 ## Positioning
 
 * Top left corner on [websites](https://www.dxw.com/)
