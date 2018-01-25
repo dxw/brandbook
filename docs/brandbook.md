@@ -310,13 +310,13 @@ Let’s build better services together!
 
 ## dxw typeface
 
-[Founders Grotesk Text](https://drive.google.com/drive/folders/0B_Z3pFTJZM5OME92c2xMWEdMdFk)
+[Lato](https://fonts.google.com/specimen/Lato), available on Google Fonts, can be used globally across all of our outputs. 
 
-Use **Light** for body text and **Medium** for headings.
+To use it in apps that aren't in the Google suite (e.g. Adobe apps, etc), you'll need to download and install the font.
 
-## Google Docs font
+If you need any help incorporating it into your work, ask in [the #helpmedesign channel in Slack](https://dxw.slack.com/messages/C8Q0WJ10S).
 
-An alternative font used in shared Google documents is [Work Sans.](https://fonts.google.com/specimen/Work+Sans) It’s the closest match to Founders Grotesk.
+Use Regular for body text and **Bold** for headings.
 
 ## Tips for good typography
 
