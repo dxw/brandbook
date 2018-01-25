@@ -629,7 +629,7 @@ We also use social media icons on our sites.
 
 ## Don't reinvent the wheel
 
-Check Google Drive and ask on Slack if something similar already exists that will suit your needs.
+Check Google Drive and ask [in the #helpmedesign channel in Slack](https://dxw.slack.com/messages/C8Q0WJ10S) if something similar already exists that will suit your needs.
 
 ## Design tips
 
