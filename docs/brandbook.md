@@ -68,8 +68,6 @@ Let’s build better services together!
 
 # Logos
 
-Logos are available in horizontal and vertical arrangements. Almost all occasions will call for the horizontal version. If you're unsure which logo to use, ask in [the #helpmedesign channel in Slack](https://dxw.slack.com/messages/C8Q0WJ10S).
-
 ## dxw digital
 
 <div class="row mt2">
@@ -195,7 +193,16 @@ Logos are available in horizontal and vertical arrangements. Almost all occasion
 
 * Full logo versions are used on the dxw website and product sites (in header and footer). It’s also on the first page of a document.
 
+* Almost all occasions will call for the horizontal version. Vertical versions are mainly for social media avatars, or where the horizontal version simply won't fit. If you're unsure which logo to use, ask in [the #helpmedesign channel in Slack](https://dxw.slack.com/messages/C8Q0WJ10S).
+
 * The [d marque](https://drive.google.com/drive/u/0/folders/1xfo7N4OEXtQkqPBjgD7_VVUIE7cbyshw) can be found in the footer of written documents, slidedecks and next to the header navigation on scroll. Use the d marque on multi-page documents, where excessively repeating the full logo feels like overkill. In this situation, make sure the full version is on the front page.
+
+<div class="row mt2">
+  <div class="one-sixth p1 mb0">
+    <img src="assets/img/dxw-marker.png" />
+  </div>
+  <p><em>The d marque</em></p>
+</div>
 
 ## Do's and dont's
 
