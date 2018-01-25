@@ -173,12 +173,17 @@
   .photo.headshot.round {
     border-radius: 100px;
   }
+
   .mt1 {
     margin-top: 1em;
   }
 
   .mt2 {
     margin-top: 2em;
+  }
+
+  .mb0 {
+    margin-bottom: 0;
   }
 
   .p1 {
