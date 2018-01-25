@@ -600,6 +600,18 @@ Where practical, size images using the [golden ratio (1:1.618).](https://en.wiki
 
 Keep in mind the [rule of thirds for image composition](https://en.wikipedia.org/wiki/Rule_of_thirds).
 
+# Stickers
+
+We have a folder of [sticker artwork on Google Drive](https://drive.google.com/drive/u/0/folders/0B-QLubnLOpX0RVZCOWtDWVgyZnc).
+
+There are three types of sticker:
+
+- [hexagonal](https://drive.google.com/drive/u/0/folders/0B9rQqYNkfHP4LXFrR0xZTTV5VFk) for mission patches
+- [circular](https://drive.google.com/drive/u/0/folders/0B-QLubnLOpX0RVZCOWtDWVgyZnc) for marketing purposes
+- [teardrop](https://drive.google.com/drive/u/0/folders/0B9rQqYNkfHP4TkhwM1R2UnBXQWc) for values
+
+Get help creating new stickers via [the #helpmedesign channel in Slack](https://dxw.slack.com/messages/C8Q0WJ10S).
+
 # Icons
 
 Places where we currently use Symbolicons:
