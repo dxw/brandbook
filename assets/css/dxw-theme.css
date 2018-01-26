@@ -1,24 +1,10 @@
-@font-face {
-    font-family: 'Founders-Light';
-    src: url('../fonts/FoundersGroteskTextWeb-Light.eot'); /* IE9 Compat Modes */
-    src: url('../fonts/FoundersGroteskTextWeb-Light.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-         url('../fonts/FoundersGroteskTextWeb-Light.woff2') format('woff2'), /* Super Modern Browsers */
-         url('../fonts/FoundersGroteskTextWeb-Light.woff') format('woff');
-  }
-  
-  @font-face {
-    font-family: 'Founders-Medium';
-    src: url('../fonts/FoundersGroteskTextWeb-Medium.eot'); /* IE9 Compat Modes */
-    src: url('../fonts/FoundersGroteskTextWeb-Medium.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-         url('../fonts/FoundersGroteskTextWeb-Medium.woff2') format('woff2'), /* Super Modern Browsers */
-         url('../fonts/FoundersGroteskTextWeb-Medium.woff') format('woff');
-  }
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700');
   
   body {
-    font-family: Founders-Light, sans-serif;
+    font-family: 'Lato', sans-serif;
     font-size: 15pt;
     color: #393b44;
-    line-height: 1.6em;
+    line-height: 1.5;
     margin: 0;
     padding: 0;
   }
@@ -28,19 +14,35 @@
   .sidebar {
     z-index: 3;
   }
+
+  section.cover h1 {
+    margin: 1.25rem 0 2.5rem
+  }
+
+  section.cover .cover-main>p:last-child a {
+    letter-spacing: 0;
+  }
   
   h1,h2,h3,h4,h5 {
-    font-family: Founders-Medium, sans-serif;
-    font-weight: 500;
-    letter-spacing: -1px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
   }
+
+  .markdown-section p {
+    word-spacing: 0;
+  }
+
+  .content p {
+    line-height: 1.5;
+  }
+
   .markdown-section h1:not(:first-of-type) {
     margin-top: 2em;
   }
 
   b,strong {
-    font-family: Founders-Medium, sans-serif;
-    font-weight: 500;
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
   }
 
   .app-nav a {
@@ -67,7 +69,7 @@
     line-height: 1.6;
   }
   .sidebar ul li.active > a {
-    font-family: Founders-Medium, sans-serif;
+    font-family: 'Lato', sans-serif;
   }
   article li {
     margin-bottom: 10px;
