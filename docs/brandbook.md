@@ -688,6 +688,12 @@ Where practical, size images using the [golden ratio (1:1.618).](https://en.wiki
 
 Keep in mind the [rule of thirds for image composition](https://en.wikipedia.org/wiki/Rule_of_thirds).
 
+# Google Docs
+
+There is a set of [Google Docs templates on Google Drive](https://drive.google.com/drive/u/0/folders/1N-hcrCGFdCjcknJucYD_uzVbWSvTb6Wo). If you need to make a new doc, look here first to see if something simialr exists.
+
+It's easy to [set up Docs to use our styles by default](https://docs.google.com/document/d/1219tnkgI1H0BXOOaOF3FjCBrKY0GiHWDm62fgqVE5vU/edit). 
+
 # Stickers
 
 We have a folder of [sticker artwork on Google Drive](https://drive.google.com/drive/u/0/folders/0B-QLubnLOpX0RVZCOWtDWVgyZnc).
