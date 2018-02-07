@@ -714,6 +714,10 @@ The vertical versions of our [logos](#logos) work best for social media avatars,
 
 Use the horizontal versions of the [logos](#logos) for featured imagery.
 
+# Motion graphics (WIP)
+
+There is a [folder for motion graphics](https://drive.google.com/drive/u/0/folders/1rS8gqeHsgNy66Ia9iOMB_bj4IW4EsRRp) (WIP) on Google Drive. 
+
 # Stickers
 
 We have a folder of [sticker artwork on Google Drive](https://drive.google.com/drive/u/0/folders/0B-QLubnLOpX0RVZCOWtDWVgyZnc).
