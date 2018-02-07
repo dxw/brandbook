@@ -320,6 +320,8 @@ If you need any help incorporating it into your work, ask in [the #helpmedesign 
 
 Use Regular for body text and **Bold** for headings.
 
+When there is absolutely no way to use Lato, choose Helvetica or Arial.
+
 ## Tips for good typography
 
 ### Line length
