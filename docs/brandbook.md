@@ -692,7 +692,7 @@ Keep in mind the [rule of thirds for image composition](https://en.wikipedia.org
 
 # Google Docs
 
-There is a set of [Google Docs templates on Google Drive](https://drive.google.com/drive/u/0/folders/1N-hcrCGFdCjcknJucYD_uzVbWSvTb6Wo). If you need to make a new doc, look here first to see if something simialr exists.
+There is a set of [Google Docs templates on Google Drive](https://drive.google.com/drive/u/0/folders/1N-hcrCGFdCjcknJucYD_uzVbWSvTb6Wo). If you need to make a new doc, look here first to see if something similar exists.
 
 It's easy to [set up Docs to use our styles by default](https://docs.google.com/document/d/1219tnkgI1H0BXOOaOF3FjCBrKY0GiHWDm62fgqVE5vU/edit). 
 
