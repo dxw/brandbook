@@ -696,6 +696,16 @@ There is a set of [Google Docs templates on Google Drive](https://drive.google.c
 
 It's easy to [set up Docs to use our styles by default](https://docs.google.com/document/d/1219tnkgI1H0BXOOaOF3FjCBrKY0GiHWDm62fgqVE5vU/edit). 
 
+# Google Slides
+
+There are [templates for Google Slides decks](https://drive.google.com/drive/u/0/folders/1QdFWVI4mLunVop6M72PTFyKamV08hggt). 
+
+Use **dxw presentation deck template** for simple presentations.
+
+Use **dxw detailed deck template** for pitches, leave-behinds, reports, or anything that needs more detail and depth than a standard presentation.
+
+If you find they aren't quite right for your presentation, ask for assistance in [the #helpmedesign channel in Slack](https://dxw.slack.com/messages/C8Q0WJ10S).
+
 # Stickers
 
 We have a folder of [sticker artwork on Google Drive](https://drive.google.com/drive/u/0/folders/0B-QLubnLOpX0RVZCOWtDWVgyZnc).
