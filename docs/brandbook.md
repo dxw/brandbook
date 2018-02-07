@@ -706,6 +706,14 @@ Use **dxw detailed deck template** for pitches, leave-behinds, reports, or anyth
 
 If you find they aren't quite right for your presentation, ask for assistance in [the #helpmedesign channel in Slack](https://dxw.slack.com/messages/C8Q0WJ10S).
 
+# Social media
+
+We're growing a folder of [imagery for use across social media](https://drive.google.com/drive/u/0/folders/12tYJmJikieUnQ3Owkpyr5_6EIUvM7Lgd). If you need something created, look here first to see if something close to your requirements already exists. If not, ask for assistance in [the #helpmedesign channel in Slack](https://dxw.slack.com/messages/C8Q0WJ10S).
+
+The vertical versions of our [logos](#logos) work best for social media avatars, when the images are mostly small, and square/circular. 
+
+Use the horizontal versions of the [logos](#logos) for featured imagery.
+
 # Stickers
 
 We have a folder of [sticker artwork on Google Drive](https://drive.google.com/drive/u/0/folders/0B-QLubnLOpX0RVZCOWtDWVgyZnc).
