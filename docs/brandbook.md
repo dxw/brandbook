@@ -767,16 +767,3 @@ Check Google Drive and ask [in the #helpmedesign channel in Slack](https://dxw.s
 Use the [#helpmedesign channel in Slack](https://dxw.slack.com/messages/C8Q0WJ10S) to get help and advice on any aspects of design, however big or small.
 
 
-# Glossary
-
-## GovPress
-
-Google Drive: [https://drive.google.com/drive/folders/0Bzb3f1meEk75bXRNampNMVpVMnM](https://drive.google.com/drive/folders/0Bzb3f1meEk75bXRNampNMVpVMnM)
-
-## GovPress admin
-
-Google Drive: [https://drive.google.com/drive/folders/0Bzb3f1meEk75MWJDby1ydFd4V3M](https://drive.google.com/drive/folders/0Bzb3f1meEk75MWJDby1ydFd4V3M)
-
-## dxw security
-
-Google Drive: [https://drive.google.com/drive/folders/0B-QLubnLOpX0Zkc2U0wyUjdrbGM](https://drive.google.com/drive/folders/0B-QLubnLOpX0Zkc2U0wyUjdrbGM)
