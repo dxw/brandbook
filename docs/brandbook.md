@@ -837,6 +837,10 @@ We also use social media icons on our sites.
 
 # Creating new outputs?
 
+## Choose your tools carefully
+
+* When you choose the software to make your output, try and use the most accessible for the whole team. For example, can you use Google Slides instead of Adobe Illustrator? Google Docs instead of Adobe InDesign? etc.
+
 ## Consider the brand requirements
 
 * are you using the correct [logo?](#logos)
