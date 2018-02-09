@@ -67,17 +67,21 @@ Explain an acronym the first time it appears in a text
 
 ## Mission
 
-dxw helps public sector teams to make good technology decisions and build better services
+> dxw helps public sector teams to make good technology decisions and build better services
 
 ## Other messages
 
-dxw - Exemplary web projects for the public sector
+> dxw - Exemplary web projects for the public sector
 
-We put the user at the heart of everything we do
+> We put the user at the heart of everything we do
 
-## Call to actions
+## dxw cyber
 
-Let’s build better services together!
+> dxw cyber helps technology teams to build and operate digital services securely
+
+## Calls to action
+
+> Let’s build better services together!
 
 # Logos
 
