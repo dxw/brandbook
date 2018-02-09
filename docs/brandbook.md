@@ -363,7 +363,12 @@ Keep it light as far as possible. Better to have multiple pages with one clear m
     <div class="swatch-text">
       <h4>Dark Blue</h4>
       <div class="swatch-hex">
-        Hex: <code>#006998</code>
+        <small>HEX:</small> 
+        <code>#006998</code>
+      </div>
+      <div class="swatch-rgb">
+        <small>RGB:</small> 
+        <code>1,104,152</code>
       </div>
     </div>
   </div>
@@ -374,7 +379,12 @@ Keep it light as far as possible. Better to have multiple pages with one clear m
     <div class="swatch-text">
       <h4>Light Blue</h4>
       <div class="swatch-hex">
-        Hex: <code>#1ca4de</code>
+        <small>HEX:</small> 
+        <code>#1ca4de</code>
+      </div>
+      <div class="swatch-rgb">
+        <small>RGB:</small> 
+        <code>28,164,222</code>
       </div>
     </div>
   </div>
@@ -385,7 +395,12 @@ Keep it light as far as possible. Better to have multiple pages with one clear m
     <div class="swatch-text">
       <h4>Black</h4>
       <div class="swatch-hex">
-        Hex: <code>#283133</code>
+        <small>HEX:</small> 
+        <code>#283133</code>
+      </div>
+      <div class="swatch-rgb">
+        <small>RGB:</small> 
+        <code>41,49,51</code>
       </div>
     </div>
   </div>
@@ -396,7 +411,12 @@ Keep it light as far as possible. Better to have multiple pages with one clear m
     <div class="swatch-text">
       <h4>Dark Grey</h4>
       <div class="swatch-hex">
-        Hex: <code>#4c535a</code>
+        <small>HEX:</small> 
+        <code>#4c535a</code>
+      </div>
+      <div class="swatch-rgb">
+        <small>RGB:</small> 
+        <code>76,83,89</code>
       </div>
     </div>
   </div>
@@ -407,7 +427,12 @@ Keep it light as far as possible. Better to have multiple pages with one clear m
     <div class="swatch-text">
       <h4>White</h4>
       <div class="swatch-hex">
-        Hex: <code>#ffffff</code>
+        <small>HEX:</small> 
+        <code>#ffffff</code>
+      </div>
+      <div class="swatch-rgb">
+        <small>RGB:</small> 
+        <code>255,255,255</code>
       </div>
     </div>
   </div>
@@ -460,7 +485,12 @@ Keep it light as far as possible. Better to have multiple pages with one clear m
     <div class="swatch-text">
       <h4>Dark green</h4>
       <div class="swatch-hex">
-        Hex: <code>#006874</code>
+        <small>HEX:</small> 
+        <code>#006874</code>
+      </div>
+      <div class="swatch-rgb">
+        <small>RGB:</small> 
+        <code>0,104,116</code>
       </div>
     </div>
   </div>
@@ -471,7 +501,12 @@ Keep it light as far as possible. Better to have multiple pages with one clear m
     <div class="swatch-text">
       <h4>Light green</h4>
       <div class="swatch-hex">
-        Hex: <code>#3bc492</code>
+        <small>HEX:</small> 
+        <code>#3bc492</code>
+      </div>
+      <div class="swatch-rgb">
+        <small>RGB:</small> 
+        <code>59,196,146</code>
       </div>
     </div>
   </div>
@@ -482,7 +517,12 @@ Keep it light as far as possible. Better to have multiple pages with one clear m
     <div class="swatch-text">
       <h4>Yellow</h4>
       <div class="swatch-hex">
-        Hex: <code>#ffb72c</code>
+        <small>HEX:</small> 
+        <code>#ffb72c</code>
+      </div>
+      <div class="swatch-rgb">
+        <small>RGB:</small> 
+        <code>255,183,44</code>
       </div>
     </div>
   </div>
@@ -493,7 +533,12 @@ Keep it light as far as possible. Better to have multiple pages with one clear m
     <div class="swatch-text">
       <h4>Orange</h4>
       <div class="swatch-hex">
-        Hex: <code>#fe603a</code>
+        <small>HEX:</small> 
+        <code>#fe603a</code>
+      </div>
+      <div class="swatch-rgb">
+        <small>RGB:</small> 
+        <code>255,96,58</code>
       </div>
     </div>
   </div>
@@ -504,7 +549,12 @@ Keep it light as far as possible. Better to have multiple pages with one clear m
     <div class="swatch-text">
       <h4>Red</h4>
       <div class="swatch-hex">
-        Hex: <code>#9f1f1f</code>
+        <small>HEX:</small> 
+        <code>#9f1f1f</code>
+      </div>
+      <div class="swatch-rgb">
+        <small>RGB:</small> 
+        <code>159,31,31</code>
       </div>
     </div>
   </div>
@@ -515,7 +565,12 @@ Keep it light as far as possible. Better to have multiple pages with one clear m
     <div class="swatch-text">
       <h4>Turquoise</h4>
       <div class="swatch-hex">
-        Hex: <code>#00a0b0</code>
+        <small>HEX:</small> 
+        <code>#00a0b0</code>
+      </div>
+      <div class="swatch-rgb">
+        <small>RGB:</small> 
+        <code>0,160,176</code>
       </div>
     </div>
   </div>
@@ -526,7 +581,12 @@ Keep it light as far as possible. Better to have multiple pages with one clear m
     <div class="swatch-text">
       <h4>Purple</h4>
       <div class="swatch-hex">
-        Hex: <code>#5b527f</code>
+        <small>HEX:</small> 
+        <code>#5b527f</code>
+      </div>
+      <div class="swatch-rgb">
+        <small>RGB:</small> 
+        <code>91,82,126</code>
       </div>
     </div>
   </div>
@@ -537,7 +597,12 @@ Keep it light as far as possible. Better to have multiple pages with one clear m
     <div class="swatch-text">
       <h4>Pink</h4>
       <div class="swatch-hex">
-        Hex: <code>#b15fa2</code>
+        <small>HEX:</small> 
+        <code>#b15fa2</code>
+      </div>
+      <div class="swatch-rgb">
+        <small>RGB:</small> 
+        <code>177,95,162</code>
       </div>
     </div>
   </div>
@@ -548,7 +613,12 @@ Keep it light as far as possible. Better to have multiple pages with one clear m
     <div class="swatch-text">
       <h4>Grey</h4>
       <div class="swatch-hex">
-        Hex: <code>#95989a</code>
+        <small>HEX:</small> 
+        <code>#95989a</code>
+      </div>
+      <div class="swatch-rgb">
+        <small>RGB:</small> 
+        <code>149,152,154</code>
       </div>
     </div>
   </div>
@@ -559,7 +629,12 @@ Keep it light as far as possible. Better to have multiple pages with one clear m
     <div class="swatch-text">
       <h4>Light grey</h4>
       <div class="swatch-hex">
-        Hex: <code>#eeeeee</code>
+        <small>HEX:</small> 
+        <code>#eeeeee</code>
+      </div>
+      <div class="swatch-rgb">
+        <small>RGB:</small> 
+        <code>238,238,238</code>
       </div>
     </div>
   </div>
@@ -570,7 +645,12 @@ Keep it light as far as possible. Better to have multiple pages with one clear m
     <div class="swatch-text">
       <h4>Off-white</h4>
       <div class="swatch-hex">
-        Hex: <code>#f2f2f2</code>
+        <small>HEX:</small> 
+        <code>#f2f2f2</code>
+      </div>
+      <div class="swatch-rgb">
+        <small>RGB:</small> 
+        <code>242,242,242</code>
       </div>
     </div>
   </div>
