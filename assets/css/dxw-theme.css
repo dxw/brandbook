@@ -9,7 +9,7 @@
     padding: 0;
   }
   .sidebar, body, input {
-    background: #FAFDFE;
+    background: #fff;
   }
   .sidebar {
     z-index: 3;
