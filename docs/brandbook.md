@@ -370,6 +370,10 @@ Keep it light as far as possible. Better to have multiple pages with one clear m
         <small>RGB:</small> 
         <code>1,104,152</code>
       </div>
+      <div class="swatch-cmyk">
+        <small>CMYK:</small> 
+        <code>100,31,0,40</code>
+      </div>
     </div>
   </div>
 
@@ -385,6 +389,10 @@ Keep it light as far as possible. Better to have multiple pages with one clear m
       <div class="swatch-rgb">
         <small>RGB:</small> 
         <code>28,164,222</code>
+      </div>
+      <div class="swatch-cmyk">
+        <small>CMYK:</small> 
+        <code>87,26,0,13</code>
       </div>
     </div>
   </div>
@@ -402,6 +410,10 @@ Keep it light as far as possible. Better to have multiple pages with one clear m
         <small>RGB:</small> 
         <code>41,49,51</code>
       </div>
+      <div class="swatch-cmyk">
+        <small>CMYK:</small> 
+        <code>22,4,0,80</code>
+      </div>
     </div>
   </div>
 
@@ -418,6 +430,10 @@ Keep it light as far as possible. Better to have multiple pages with one clear m
         <small>RGB:</small> 
         <code>76,83,89</code>
       </div>
+      <div class="swatch-cmyk">
+        <small>CMYK:</small> 
+        <code>16,8,0,65</code>
+      </div>
     </div>
   </div>
 
@@ -433,6 +449,10 @@ Keep it light as far as possible. Better to have multiple pages with one clear m
       <div class="swatch-rgb">
         <small>RGB:</small> 
         <code>255,255,255</code>
+      </div>
+      <div class="swatch-cmyk">
+        <small>CMYK:</small> 
+        <code>0,0,0,0</code>
       </div>
     </div>
   </div>
@@ -492,6 +512,10 @@ Keep it light as far as possible. Better to have multiple pages with one clear m
         <small>RGB:</small> 
         <code>0,104,116</code>
       </div>
+      <div class="swatch-cmyk">
+        <small>CMYK:</small> 
+        <code>100,10,0,55</code>
+      </div>
     </div>
   </div>
 
@@ -507,6 +531,10 @@ Keep it light as far as possible. Better to have multiple pages with one clear m
       <div class="swatch-rgb">
         <small>RGB:</small> 
         <code>59,196,146</code>
+      </div>
+      <div class="swatch-cmyk">
+        <small>CMYK:</small> 
+        <code>70,0,26,23</code>
       </div>
     </div>
   </div>
@@ -524,6 +552,10 @@ Keep it light as far as possible. Better to have multiple pages with one clear m
         <small>RGB:</small> 
         <code>255,183,44</code>
       </div>
+      <div class="swatch-cmyk">
+        <small>CMYK:</small> 
+        <code>0,28,83,0</code>
+      </div>
     </div>
   </div>
 
@@ -539,6 +571,10 @@ Keep it light as far as possible. Better to have multiple pages with one clear m
       <div class="swatch-rgb">
         <small>RGB:</small> 
         <code>255,96,58</code>
+      </div>
+      <div class="swatch-cmyk">
+        <small>CMYK:</small> 
+        <code>0,62,77,0</code>
       </div>
     </div>
   </div>
@@ -556,6 +592,10 @@ Keep it light as far as possible. Better to have multiple pages with one clear m
         <small>RGB:</small> 
         <code>159,31,31</code>
       </div>
+      <div class="swatch-cmyk">
+        <small>CMYK:</small> 
+        <code>0,81,81,38</code>
+      </div>
     </div>
   </div>
 
@@ -571,6 +611,10 @@ Keep it light as far as possible. Better to have multiple pages with one clear m
       <div class="swatch-rgb">
         <small>RGB:</small> 
         <code>0,160,176</code>
+      </div>
+      <div class="swatch-cmyk">
+        <small>CMYK:</small> 
+        <code>100,9,0,31</code>
       </div>
     </div>
   </div>
@@ -588,6 +632,10 @@ Keep it light as far as possible. Better to have multiple pages with one clear m
         <small>RGB:</small> 
         <code>91,82,126</code>
       </div>
+      <div class="swatch-cmyk">
+        <small>CMYK:</small> 
+        <code>28,35,0,50</code>
+      </div>
     </div>
   </div>
 
@@ -603,6 +651,10 @@ Keep it light as far as possible. Better to have multiple pages with one clear m
       <div class="swatch-rgb">
         <small>RGB:</small> 
         <code>177,95,162</code>
+      </div>
+      <div class="swatch-cmyk">
+        <small>CMYK:</small> 
+        <code>0,46,8,31</code>
       </div>
     </div>
   </div>
@@ -620,6 +672,10 @@ Keep it light as far as possible. Better to have multiple pages with one clear m
         <small>RGB:</small> 
         <code>149,152,154</code>
       </div>
+      <div class="swatch-cmyk">
+        <small>CMYK:</small> 
+        <code>3,1,0,40</code>
+      </div>
     </div>
   </div>
 
@@ -636,6 +692,10 @@ Keep it light as far as possible. Better to have multiple pages with one clear m
         <small>RGB:</small> 
         <code>238,238,238</code>
       </div>
+      <div class="swatch-cmyk">
+        <small>CMYK:</small> 
+        <code>0,0,0,7</code>
+      </div>
     </div>
   </div>
 
@@ -651,6 +711,10 @@ Keep it light as far as possible. Better to have multiple pages with one clear m
       <div class="swatch-rgb">
         <small>RGB:</small> 
         <code>242,242,242</code>
+      </div>
+      <div class="swatch-cmyk">
+        <small>CMYK:</small> 
+        <code>0,0,0,5</code>
       </div>
     </div>
   </div>
