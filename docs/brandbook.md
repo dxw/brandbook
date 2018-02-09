@@ -440,41 +440,6 @@ Keep it light as far as possible. Better to have multiple pages with one clear m
 </div>
 
 
-
-### Dark blue
-
-* Use for links, call to actions, icons, banner background.
-
-* HEX `#006998` / Pantone 7691 C
-
-* Dark blue background with white (`#ffffff`) foreground: 6.04:1 contrast ratio, passes WCAG AA. The same contrast ratio is for white background with dark blue foreground.
-
-### Light blue
-
-* Use for accent colour or large visual details
-
-* HEX `#1ca4de` / Pantone 2925 C
-
-* Light blue background with white foreground and white background with light blue foreground don’t have enough contrast to pass WCAG AA.
-
-* Light blue background with black (`#283133`) foreground: 4.7:1 contrast ratio, passes WCAG AA. The same contrast ratio is for black background with light blue foreground.
-
-### Black
-
-* Use for text colour and headings
-
-* HEX `#283133`
-
-### Dark grey
-
-* Use for dark backgrounds, and form and meta text colour
-
-* HEX `#4c535a`
-
-### White
-
-* HEX `#ffffff`
-
 ## Secondary colours
 
 <div class="swatches">
@@ -657,97 +622,6 @@ Keep it light as far as possible. Better to have multiple pages with one clear m
 
 </div>
 
-### Dark green
-
-* Use for feature background 
-
-* HEX `#006874`
-
-* Dark green background with white foreground: 6.5:1 contrast ratio, passes WCAG AA. The same contrast ratio is for white background with dark green foreground.
-
-### Light green
-
-* Used for success alert background when the contact form has been sent
-
-* HEX `#3bc492`
-
-* Light green background with white foreground and white background with light green foreground don’t have enough contrast to pass WCAG AA.
-
-* Light green background with black foreground: 6.02:1 contrast ratio, passes WCAG AA. The same contrast ratio is for black background with light blue foreground.
-
-### Yellow
-
-* Used as default alert background and as a border on when elements are in focus state
-
-* HEX `#ffb72c`
-
-* Yellow background with white foreground and white background with yellow foreground don’t have enough contrast to pass WCAG AA.
-
-* Yellow background with black foreground: 7.65:1 contrast ratio, passes WCAG AA. The same contrast ratio is for black background with light blue foreground.
-
-### Orange
-
-* Not used anywhere on dxw website at the moment
-
-* HEX `#fe603a`
-
-* Orange background with white foreground: 3.02:1 contrast ratio, passes WCAG AA for large text only. The same contrast ratio is for white background with orange foreground.
-
-* Orange background with black foreground: 4.41:1 contrast ratio, passes WCAG AA for large text only. The same contrast ratio is for black background with orange foreground.
-
-### Red
-
-* Used in the contact form for error messages
-
-* HEX `#9f1f1f`
-
-* Red background with white foreground: 7.81:1 contrast ratio, passes WCAG AA. The same contrast ratio is for white background with red foreground.
-
-### Turquoise
-
-* Not used anywhere on dxw website at the moment 
-
-* HEX `#00a0b0`
-
-* Turquoise background with white foreground: 3.16:1 contrast ratio, passes WCAG AA for large text only. The same contrast ratio is for white background with orange foreground.
-
-* Turquoise background with black foreground: 4.22:1 contrast ratio, passes WCAG AA for large text only. The same contrast ratio is for black background with orange foreground.
-
-### Purple
-
-* Used for banner background
-
-* HEX `#5b527f`
-
-* Purple background with white foreground: 7.1:1 contrast ratio, passes WCAG AA. The same contrast ratio is for white background with dark green foreground.
-
-### Pink
-
-* Not used anywhere on dxw website at the moment
-
-* HEX `#b15fa2`
-
-* Pink background with white foreground: 4.18:1 contrast ratio, passes WCAG AA for large text only. The same contrast ratio is for white background with pink foreground.
-
-* Pink background with black foreground: 3.19:1 contrast ratio, passes WCAG AA for large text only. The same contrast ratio is for black background with pink foreground.
-
-### Grey
-
-* Used for thin borders and grey backgrounds
-
-* HEX  `#95989a`
-
-### Light grey
-
-* Used for backgrounds
-
-* HEX `#eeeeee`
-
-### Off-white
-
-* Used for backgrounds
-
-* HEX `#f2f2f2`
 
 # Photography guidelines
 
