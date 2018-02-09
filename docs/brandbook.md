@@ -192,7 +192,7 @@ Let’s build better services together!
 
 * Top left corner on [websites](https://www.dxw.com/)
 
-* On the left in the footer on dxw products and related sites, for example on [new GovPress](https://hosting.staging.dxw.net/) or [new dxw security](https://security.staging.dxw.net/)
+* On the left in the footer on dxw products and related sites, for example on [govpress](https://www.govpress.com/) or [dxw advisories](https://advisories.dxw.com/)
 
 ## Colour variations
 
@@ -747,9 +747,9 @@ Places where we currently use Symbolicons:
 
 * dxw website (services on the homepage, contact page)
 
-* New GovPress [https://www.govpress.com](https://www.govpress.com) (features on the homepage, support table, contact us page)
+* govpress [https://www.govpress.com](https://www.govpress.com) (features on the homepage, support table, contact us page)
 
-* New dxw security site [https://security.staging.dxw.net/](https://security.staging.dxw.net/) (review icons, features on the homepage)
+* dxw advisories [https://advisories.dxw.com](https://advisories.dxw.com/) (review icons, features on the homepage)
 
 * Scheduling dashboard?
 
