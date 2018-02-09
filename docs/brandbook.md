@@ -36,6 +36,17 @@ Not DXW, Dxw, DxW, dXw, etc
 
 In general, we refer to ourselves as dxw. When we are talking about a specific offering, or in a specific context, we use the corresponding extension, e.g. dxw digital, dxw cyber, etc. 
 
+### dxw govpress
+Because govpress is a specific product it’s context can be thought of like this:
+
+Use ‘dxw govpress’ when referring to the company
+
+> Contact dxw govpress 
+
+Use ‘govpress’ when referring to the product itself
+
+> Login to the govpress admin
+
 ## Keep it clear
 
 Don’t leave people in two minds about what we’re saying
