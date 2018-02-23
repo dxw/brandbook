@@ -359,6 +359,8 @@ Keep it light as far as possible. Better to have multiple pages with one clear m
 
 # Colour palette
 
+When you make any branded materials, for consistency you should stick with a combination of white backgrounds, black (<code>#283133</code>) text, and use dark blue (<code>#006998</code>) and light blue (<code>#1ca4de</code>) sparingly as accent colours. You should rarely need the secondary palette; use it for impact only. If you need advice, ask in [the #helpmedesign channel in Slack](https://dxw.slack.com/messages/C8Q0WJ10S).
+
 ## Primary colours
 
 <div class="swatches">
