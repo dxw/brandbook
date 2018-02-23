@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Lato:400,700');
+@import url('https://fonts.googleapis.com/css?family=Inconsolata|Lato:400,700');
   
   body {
     font-family: 'Lato', sans-serif;
@@ -41,6 +41,8 @@
   }
 
   .markdown-section code {
+    font-family: 'Inconsolata';
+    font-size: 0.85em;
     color: #b15fa2;
   }
 
