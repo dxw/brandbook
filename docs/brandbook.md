@@ -337,6 +337,8 @@ Use Regular for body text and **Bold** for headings.
 
 When there is absolutely no way to use Lato, choose Helvetica or Arial.
 
+If you need a monospaced font, use [Inconsolata](https://fonts.google.com/specimen/Inconsolata) from Google Fonts.
+
 ## Tips for good typography
 
 ### Line length
