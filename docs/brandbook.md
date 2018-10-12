@@ -694,6 +694,192 @@ When you make any branded materials, for consistency you should stick with a com
 
 </div>
 
+## Tints and shades
+
+<div class="swatches">
+
+  <div class="swatch-wrapper multiple-swatches">
+    <div class="swatch-text">
+      <h4>Dark Blue tints</h4>
+    </div>
+    <div class="swatch" style="background-color: #cce1ea;">
+    </div>
+    <div class="swatch-text">
+      <div class="swatch-hex">
+        <small>HEX:</small> <code>#cce1ea</code>
+      </div>
+      <div class="swatch-rgb">
+        <small>RGB:</small> <code>204,225,234</code>
+      </div>
+      <div class="swatch-cmyk">
+        <small>CMYK:</small> <code>13,4,0,8</code>
+      </div>
+    </div>
+    <div class="swatch" style="background-color: #7fb4cb;">
+    </div>
+    <div class="swatch-text">
+      <div class="swatch-hex">
+        <small>HEX:</small> <code>#7fb4cb</code>
+      </div>
+      <div class="swatch-rgb">
+        <small>RGB:</small> <code>127,180,203</code>
+      </div>
+      <div class="swatch-cmyk">
+        <small>CMYK:</small> <code>37,11,0,20</code>
+      </div>
+    </div>
+    <div class="swatch" style="background-color: #3287ac;">
+    </div>
+    <div class="swatch-text">
+      <div class="swatch-hex">
+        <small>HEX:</small> <code>#3287ac</code>
+      </div>
+      <div class="swatch-rgb">
+        <small>RGB:</small> <code>50,135,172</code>
+      </div>
+      <div class="swatch-cmyk">
+        <small>CMYK:</small> <code>71,22,0,33</code>
+      </div>
+    </div>
+  </div>
+  
+  <div class="swatch-wrapper multiple-swatches">
+    <div class="swatch-text">
+      <h4>Dark Blue shades</h4>
+    </div>
+    <div class="swatch" style="background-color: #005479;">
+    </div>
+    <div class="swatch-text">
+      <div class="swatch-hex">
+        <small>HEX:</small> <code>#005479</code>
+      </div>
+      <div class="swatch-rgb">
+        <small>RGB:</small> <code>0,84,121</code>
+      </div>
+      <div class="swatch-cmyk">
+        <small>CMYK:</small> <code>100,31,0,53</code>
+      </div>
+    </div>
+    <div class="swatch" style="background-color: #00344c;">
+    </div>
+    <div class="swatch-text">
+      <div class="swatch-hex">
+        <small>HEX:</small> <code>#00344c</code>
+      </div>
+      <div class="swatch-rgb">
+        <small>RGB:</small> <code>0,52,76</code>
+      </div>
+      <div class="swatch-cmyk">
+        <small>CMYK:</small> <code>100,32,0,70</code>
+      </div>
+    </div>
+    <div class="swatch" style="background-color: #00151e;">
+    </div>
+    <div class="swatch-text">
+      <div class="swatch-hex">
+        <small>HEX:</small> <code>#00151e</code>
+      </div>
+      <div class="swatch-rgb">
+        <small>RGB:</small> <code>0,21,30</code>
+      </div>
+      <div class="swatch-cmyk">
+        <small>CMYK:</small> <code>100,30,0,88</code>
+      </div>
+    </div>
+  </div>
+  
+  <div class="swatch-wrapper multiple-swatches">
+    <div class="swatch-text">
+      <h4>Light Blue tints</h4>
+    </div>
+    <div class="swatch" style="background-color: #d1ecf8;">
+    </div>
+    <div class="swatch-text">
+      <div class="swatch-hex">
+        <small>HEX:</small> <code>#d1ecf8</code>
+      </div>
+      <div class="swatch-rgb">
+        <small>RGB:</small> <code>209,236,248</code>
+      </div>
+      <div class="swatch-cmyk">
+        <small>CMYK:</small> <code>16,5,0,3</code>
+      </div>
+    </div>
+    <div class="swatch" style="background-color: #8dd1ee;">
+    </div>
+    <div class="swatch-text">
+      <div class="swatch-hex">
+        <small>HEX:</small> <code>#8dd1ee</code>
+      </div>
+      <div class="swatch-rgb">
+        <small>RGB:</small> <code>141,209,238</code>
+      </div>
+      <div class="swatch-cmyk">
+        <small>CMYK:</small> <code>41,12,0,7</code>
+      </div>
+    </div>
+    <div class="swatch" style="background-color: #49b6e4;">
+    </div>
+    <div class="swatch-text">
+      <div class="swatch-hex">
+        <small>HEX:</small> <code>#49b6e4</code>
+      </div>
+      <div class="swatch-rgb">
+        <small>RGB:</small> <code>73,182,228</code>
+      </div>
+      <div class="swatch-cmyk">
+        <small>CMYK:</small> <code>68,20,0,11</code>
+      </div>
+    </div>
+  </div>
+ 
+  <div class="swatch-wrapper multiple-swatches">
+    <div class="swatch-text">
+      <h4>Light Blue shades</h4>
+    </div>
+    <div class="swatch" style="background-color: #1683b1;">
+    </div>
+    <div class="swatch-text">
+      <div class="swatch-hex">
+        <small>HEX:</small> <code>#1683b1</code>
+      </div>
+      <div class="swatch-rgb">
+        <small>RGB:</small> <code>22,131,177</code>
+      </div>
+      <div class="swatch-cmyk">
+        <small>CMYK:</small> <code>88,26,0,31</code>
+      </div>
+    </div>
+    <div class="swatch" style="background-color: #0e526f;">
+    </div>
+    <div class="swatch-text">
+      <div class="swatch-hex">
+        <small>HEX:</small> <code>#0e526f</code>
+      </div>
+      <div class="swatch-rgb">
+        <small>RGB:</small> <code>14,82,111</code>
+      </div>
+      <div class="swatch-cmyk">
+        <small>CMYK:</small> <code>87,26,0,56</code>
+      </div>
+    </div>
+    <div class="swatch" style="background-color: #05202c;">
+    </div>
+    <div class="swatch-text">
+      <div class="swatch-hex">
+        <small>HEX:</small> <code>#05202c</code>
+      </div>
+      <div class="swatch-rgb">
+        <small>RGB:</small> <code>5,32,44</code>
+      </div>
+      <div class="swatch-cmyk">
+        <small>CMYK:</small> <code>89,27,0,83</code>
+      </div>
+    </div>
+  </div>
+
+</div>
+      
 
 # Photography guidelines
 
