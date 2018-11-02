@@ -158,6 +158,13 @@
     margin-right: 3%;
     border: 1px solid #cccccc;
   }
+  .multiple-swatches {
+    width: 24%;
+    margin-right: 1%;
+  }
+.multiple-swatches small {
+  font-size: 14px;
+}
 
   .swatch {
     width: 100%;
@@ -172,6 +179,10 @@
   .swatch-text h4 {
     margin-top: 0;
     margin-bottom: 0;
+  }
+
+  .multiple-swatches .swatch-text {
+    padding-top: 0;
   }
 
   .photo.headshot {
